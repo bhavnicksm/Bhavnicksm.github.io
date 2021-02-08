@@ -1,25 +1,25 @@
-title:            Jordi Pont-Tuset's site
-description:      Welcome to my site.
+title:            "Bhavnick's journal"
+description:      "Welcome to my site."
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //jponttuset.github.io
+url:  "https://bhavnicksm.github.io"
 #http://localhost:5000
 #https://jponttuset.github.io
-disqus_shortname: jponttuset
+# disqus_shortname: jponttuset
 
 # Owner/author information
 owner:
-  name:           Jordi Pont-Tuset
-  avatar:         jordi.png
-  bio:            I'm from a small town near Girona, Catalunya. Currently in Zürich, Switzerland. Passionate about computer vision, technology, running, and mountains.
-  email:          jponttuset@gmail.com
+  name:           "Bhavnick Minhas"
+  avatar:         "bhavnick.png"
+  bio:            "From Delhi, India. Passionate about NLP, Speech Processing and AI taking over the world"
+  email:          "bhavnicksm@gmail.com"
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: jponttuset
-  linkedin: jponttuset
-  google_scholar: VCBBx24AAAAJ
-  google_plus: 113718226018314522413
-  github: jponttuset
+  twitter: "bhavnicksm"
+  linkedin: "bhavnicksm"
+  # google_scholar: VCBBx24AAAAJ
+  # google_plus: 113718226018314522413
+  github: "Bhavnicksm"
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-52736040-1
+# google_analytics: UA-52736040-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -37,7 +37,7 @@ links:
     url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Zurich
+timezone:    Asia/Kolkata
 future:      true
 #pygments:    true
 highlighter: rouge
