@@ -1,3 +1,4 @@
 # Bhavnicksm.github.io
-<p>This is a test.</p>
+
+My own GitHub Page
 
