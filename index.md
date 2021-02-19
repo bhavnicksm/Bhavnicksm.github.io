@@ -4,10 +4,11 @@ title: Me in a Nutshell
 description: "Bhavnick's Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: trees.jpg
+  feature: mountain.jpg
 ---
 
 I am Bhavnick and I am interested in making computers learn our language.
+<br/>
 <br/>
 Ever since I was introduced to computers and their coding 'Languages' I have been hooked. I can't remember a time when I did not want to be someone who worked with and on computers. I learnt C++, HTML and CSS in school and built my own E-Book Reader (I also love reading :heart:). In college, when I was first introduced to Artificial Intelligence, I learnt Python, did multiple Machine Learning and Deep Learning courses, and even worked on a few Kaggle datasets, all in less than a year.
 <br/>
