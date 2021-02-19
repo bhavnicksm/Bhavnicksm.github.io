@@ -49,3 +49,4 @@ Note that ` is an accent comma (found below the tilde ~ on the keyboard), which 
 
 *  [GitHub's Official Tutorial On MarkDown](https://guides.github.com/features/mastering-markdown/)
 *  [GitHub's Emoji Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+*  [Basic Syntax of MarkDown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
