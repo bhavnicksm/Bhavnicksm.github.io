@@ -14,9 +14,11 @@ This is a test blog in which I check out the various elements of MarkDown posts.
 
 # Index 
 
+*  [Headings](#heading)
+*  [Code](#code)
 
 
-# Headings (a heading 1 btw)
+# Headings (a heading 1 btw) <a name="heading"></a>
 
 To write a heading, you need to use the hashtag ('#') before the text with the number of hashtags signifying the heading hierarchy. Equivaltent to `<h1> - <h6>` in html.
 
@@ -31,7 +33,7 @@ To write a heading, you need to use the hashtag ('#') before the text with the n
 
 <br/>
 
-## Code (a heading 2 btw)
+## Code (a heading 2 btw)  <a name='code'></a>
 
 Note that ` is an accent comma (found below the tilde ~ on the keyboard), which is different from the inverted comma '. This is a commonly made error. 
 
