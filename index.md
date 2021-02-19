@@ -6,7 +6,10 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: trees.jpg
 ---
-Hi, I am a student of Electronics and Communication at Indian Institute of Technology, Guwahati.
 
+I am a student at the prestegious university of IIT Guwahati. 
 
-I am interesting in anything and everything AI, but I am currently focusing on learning NLP, NLU and NLG. 
+<br/>
+
+I love automation and AI. I aim to make the AI rule the world, one step at a time. 
+
