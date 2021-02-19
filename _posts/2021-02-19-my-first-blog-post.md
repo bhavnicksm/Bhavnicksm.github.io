@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My first Blog Post!"
+title: "#1: My first Blog Post!"
 description: "A test blog to try out this medium."
 comments: true
 ---
