@@ -14,12 +14,17 @@ This is a test blog in which I check out the various elements of MarkDown posts.
 
 # Index 
 
-*  [Headings](#heading)
+*  [Basic Syntax](#basic-syntax)
+    - [Headings](#heading)
 *  [Code](#code)
 
 <br/><br/>
 
-# Headings (a heading 1 btw) <a name="heading"></a>
+# Basic Syntax (a heading 1 btw) <a name="basic-syntax"></a>
+
+<br/>
+
+## Headings (a heading 2 btw) <a name="heading"></a>
 
 To write a heading, you need to use the hashtag ('#') before the text with the number of hashtags signifying the heading hierarchy. Equivaltent to `<h1> - <h6>` in html.
 
@@ -46,10 +51,10 @@ Note that ` is an accent comma (found below the tilde ~ on the keyboard), which 
     ```
 ```
 
+## Lists and Tables
+### Lists
 ### Tables
-
-
-### Emoji
+## Text Emphasis and customization
 
 
 # References
