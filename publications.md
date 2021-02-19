@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /pubs/
+permalink: /publications/
 title: Publications
 tags: [publications]
 modified: 8-15-2017
