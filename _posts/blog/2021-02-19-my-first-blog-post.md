@@ -17,6 +17,7 @@ This is a test blog in which I check out the various elements of MarkDown posts.
 *  [Headings](#heading)
 *  [Code](#code)
 
+<br/><br/>
 
 # Headings (a heading 1 btw) <a name="heading"></a>
 
