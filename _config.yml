@@ -29,8 +29,8 @@ bing_verify:
 links:
   - title: Blog
     url: /blog/
-  - title: CV
-    url: /cv/
+  # - title: CV
+  #   url: /cv/
   # - title: Publications
   #   url: /publications/
   # - title: Code
