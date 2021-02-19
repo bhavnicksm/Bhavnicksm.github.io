@@ -1,8 +1,12 @@
 ---
 layout: post
 title: "#1: Tiny Tutorial on GitHub MarkDown"
-description: "Tutorial on GitHub MarkDown"
+excerpt: "A very tiny Tutorial on GitHub MarkDown"
+modified: 2021-02-19
+categories: blog
+tags: [GitHub, MarkDown]
 comments: true
+share: true
 ---
 
 This is a test blog in which I check out the various elements of MarkDown posts. Here I make a list of examples of different ways to use markdown and how it looks with the [Minimal-Mistakes]() theme for my own benefit as well as yours. I tend to forget things that I don't use daily quite easily, markdown being one of them, therefore this post. Hope this can provide you help. 
