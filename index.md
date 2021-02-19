@@ -4,7 +4,7 @@ title: Me in a Nutshell
 description: "Bhavnick's Website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: mountain.jpg
+  feature: banner.jpg
 ---
 
 I am Bhavnick and I am interested in making computers learn our language.
