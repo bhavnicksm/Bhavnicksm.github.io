@@ -19,6 +19,6 @@ This is a test blog in which I check out the various elements of MarkDown posts.
 
 Writing some code: 
 
-'''code
+```
     import numpy as np
-'''
+```
